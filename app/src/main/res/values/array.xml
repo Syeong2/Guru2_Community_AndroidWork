@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+        <string-array name= "exchangeArray">
+            <item>IT</item>
+            <item>경영/경제</item>
+            <item>자연/과학</item>
+            <item>언어</item>
+            <item>예체능</item>
+            <item>기타</item>
+        </string-array>
+
+    <string-array name="giverfiled">
+        <item>IT</item>
+        <item>언어</item>
+        <item>예체능</item>
+        <item>취업</item>
+        <item>실생활</item>
+        <item>기타</item>
+    </string-array>
+</resources>
